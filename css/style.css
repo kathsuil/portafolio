@@ -60,7 +60,7 @@ a,
 a:hover,
 a:active,
 a:focus {
-	color:#000;
+	color:#ffffff;
     text-decoration:none;
     outline: none;
 }
@@ -491,6 +491,7 @@ For Menu Bar Design
     position: absolute;
     left: 10px;
     top:14px;
+	color:#ffffff;
 }
 #cd-logo h1 {
   font-size:18px;
